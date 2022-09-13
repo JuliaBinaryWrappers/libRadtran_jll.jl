@@ -1,0 +1,96 @@
+[[libRadtran]]
+arch = "aarch64"
+git-tree-sha1 = "5eabd0f577087f2e805d7aa9b9c4c84a5717368a"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[libRadtran.download]]
+    sha256 = "ef9b5a00267d7fb0f9e28b356faf5772ec9f9fe8517b76f953d57914e54f1746"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[libRadtran]]
+arch = "aarch64"
+git-tree-sha1 = "5a85d45a4c514eb34cb80951c17b4f90d97e6e62"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[libRadtran.download]]
+    sha256 = "90528fade6c5597543664e00dd2f0b5958a7819af6d6f8346ac3880be74b05cc"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[libRadtran]]
+arch = "aarch64"
+git-tree-sha1 = "7217cce08f7190cc4375756aeaf0aa6c76769ff5"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[libRadtran.download]]
+    sha256 = "3599f10702976b07789b7f0b00bb82b40cc6a1e57509588a959dfd7d53613c79"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[libRadtran]]
+arch = "aarch64"
+git-tree-sha1 = "e0d5a30c80e2fdcfa62bc4e331c251df8f661a69"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[libRadtran.download]]
+    sha256 = "f0af3c5f7281b9843989538ccceed33d19a7b519599a58854048fcac42067335"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[libRadtran]]
+arch = "x86_64"
+git-tree-sha1 = "b26314edc93eba97df21cf944339e9f5aa146776"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[libRadtran.download]]
+    sha256 = "690cb34dfb2256e0db38d4bac748a4c79e9a2f4d40b405fea168aee78d423e56"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[libRadtran]]
+arch = "x86_64"
+git-tree-sha1 = "57cdf15868fae74cf5322c44522738501711a59c"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[libRadtran.download]]
+    sha256 = "929e472ab2e156d1d069369fb3ed663ed58ac21a6301ebd7f7088809a7ca72a3"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[libRadtran]]
+arch = "x86_64"
+git-tree-sha1 = "b1d2ccb0b54e6bd3a6355f382d11f18010ad8cd5"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[libRadtran.download]]
+    sha256 = "04a8276d9dfbfad169b60482b743acaf8f8f7be0bbd7732ff497e381306d39ea"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[libRadtran]]
+arch = "x86_64"
+git-tree-sha1 = "6caf220a23455aabdd82f4c282c2b98a2fb83695"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[libRadtran.download]]
+    sha256 = "68707ea91c87aa20b23321b127f98157edfbaf371d7d74b3d8e62feb6fd7bbd4"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[libRadtran]]
+arch = "x86_64"
+git-tree-sha1 = "2aa2f1c734a8a6a364fafe93bd49703e62187c11"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[libRadtran.download]]
+    sha256 = "2ffceaa156bdc32e67d3939e180cdb068576f0e3500d234f3c3a333790d73d97"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[libRadtran]]
+arch = "x86_64"
+git-tree-sha1 = "0836dcdb1b8262f930f0d710af12d671c7036494"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[libRadtran.download]]
+    sha256 = "c19e103baca1869519a6e835a9a80b4995bd4bbcb2106327662847b41a799e67"
+    url = "https://github.com/JuliaBinaryWrappers/libRadtran_jll.jl/releases/download/libRadtran-v2.0.4+0/libRadtran.v2.0.4.x86_64-linux-gnu-libgfortran5.tar.gz"
